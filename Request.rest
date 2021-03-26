@@ -1,0 +1,59 @@
+GET http://localhost:3000/users
+
+
+
+POST HTTP://localhost:3000/users
+Content-Type: application/json
+{
+    "name": "Muadh",
+    "password": "password",
+
+    "name": "Delmar",
+    "password": "password",
+
+    "name": "Ethan",
+    "password": "password",
+
+    "name": "Aseem",
+    "password": "password",
+
+    "name": "Robert",
+    "password": "password", 
+
+    "name": "Dhruv",
+    "password": "password",
+
+    "name": "Raj",
+    "password": "password",
+ 
+}
+
+
+POST HTTP://localhost:3000/users/login
+Content-Type: application/json
+{ 
+
+    "name": "Muadh",
+    "password": "password",
+
+    "name": "Delmar",
+    "password": "password",
+
+    "name": "Ethan",
+    "password": "password",
+
+    "name": "Aseem",
+    "password": "password",
+
+    "name": "Robert",
+    "password": "password", 
+
+    "name": "Dhruv",
+    "password": "password",
+
+    "name": "Raj",
+    "password": "password",
+ 
+}
+
+}
